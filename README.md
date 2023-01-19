@@ -1,5 +1,5 @@
 # AirQualityControlRestApiConsume
-<br>##Call API ---> localhost:8080/AirQualityControl?city={cityName}
+<br>##Call API ---> localhost:8080/api/v1/{cityName}
 <br>
 Consuming REST API using Rest Tempate in SpringBoot and displaying the result- 
 <br>Backend -- 
